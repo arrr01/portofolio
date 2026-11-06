@@ -1,0 +1,252 @@
+{
+  "profile": {
+    "name": "Muhammad Saiful Anwar",
+    "initials": "Arr",
+    "nim": "1024017",
+    "classGroup": "TI11A / Angkatan 2024",
+    "studentId": "NIM: 1024017 · TI11A / Angkatan 2024",
+    "major": "S1 Teknik Informatika",
+    "university": "Universitas Ma'arif Nahdlatul Ulama Kebumen",
+    "role": "Mahasiswa S1 Teknik Informatika · Junior Web Developer",
+    "rotatingTitles": [
+      "Mahasiswa Teknik Informatika UMNU",
+      "Junior Web & Frontend Developer",
+      "Pengembang Aplikasi BengkelPro POS",
+      "Database & Sistem Informasi Enthusiast",
+      "Problem Solver & Pembelajar Aktif"
+    ],
+    "tagline": "Merancang antarmuka web yang bersih, mengelola data secara rapi, dan membangun aplikasi yang benar-benar terpakai.",
+    "learningFocus": "Web Development · Python · Local Storage · Technopreneurship",
+    "statusBadge": "Terbuka untuk Magang, Proyek Sistem POS & Web Terapan",
+    "photoUrl": "",
+    "shortBio": "Mahasiswa Teknik Informatika Universitas Ma'arif Nahdlatul Ulama Kebumen yang fokus merancang antarmuka web modern, aplikasi kasir (POS) berbasis Local Storage, dan solusi digital untuk UMKM.",
+    "location": "Kebumen, Jawa Tengah, Indonesia"
+  },
+  "about": {
+    "lead": "Berawal dari rasa ingin tahu tentang bagaimana sebuah aplikasi bekerja di balik layar, kini saya fokus menekuni pengembangan web dan sistem informasi di bangku perkuliahan Teknik Informatika Universitas Ma'arif Nahdlatul Ulama Kebumen.",
+    "description": "Bagi saya, pemrograman bukan sekadar menulis baris kode, melainkan cara menyederhanakan pekerjaan manusia. Melalui studi kasus nyata seperti pembuatan BengkelPro POS, saya membangun produk yang menjawab kendala manual kasir dan inventori suku cadang bengkel agar perhitungan omzet dan laba menjadi lebih akurat.",
+    "educationBackground": "Program Studi S1 Teknik Informatika Universitas Ma'arif Nahdlatul Ulama Kebumen (TI11A / Angkatan 2024). Mengembangkan keahlian praktis dalam Algoritma & Struktur Data, Rekayasa Perangkat Lunak, Technopreneurship, dan Pemrograman Web.",
+    "careerGoal": "Tumbuh menjadi Software Engineer & Web Developer yang andal—yang tidak hanya menguasai aspek teknis pemrograman, tetapi peka terhadap antarmuka pengguna (UI/UX) dan efisiensi operasional lapangan.",
+    "learningExperience": "Telah menyelesaikan 4 sertifikasi resmi Dicoding Academy Indonesia dengan total 151 jam kurikulum terverifikasi serta mempublikasikan 3 proyek aplikasi web dan mobile.",
+    "valuesPrinciple": "Tulis kode yang mudah dibaca, tepat waktu, dan terbuka pada masukan.",
+    "strengths": [
+      "Struktur kode rapi, modular, dan mudah dipelihara",
+      "Target proyek diselesaikan tepat waktu dan terukur",
+      "Fokus pada kenyamanan penggunaan bagi pelaku UMKM",
+      "Responsif terhadap teknologi baru dan pemanfaatan AI"
+    ],
+    "vision": "Tumbuh menjadi Software Engineer & Web Developer yang mampu menghadirkan produk digital yang fungsional, efisien, dan berdampak langsung bagi pengguna.",
+    "missions": [
+      "Memperdalam penguasaan teknologi Web Development, Python, dan manajemen Database melalui praktik konsisten.",
+      "Membangun portofolio proyek nyata yang berangkat dari permasalahan operasional di sekitar.",
+      "Menjaga kualitas kerja, ketelitian detail antarmuka, dan kolaborasi yang sehat dalam tim."
+    ]
+  },
+  "skills": {
+    "hardSkills": [
+      { "id": "hs-1", "name": "HTML5 (Semantik, Aksesibilitas Web & Struktur Dokumen)", "category": "FRONTEND", "level": 90, "description": "Penulisan struktur semantik HTML5, aksesibilitas halaman, dan tata letak dokumen web." },
+      { "id": "hs-2", "name": "CSS3 & Layout Modern (Bento Grid, Tailwind CSS, Flexbox, Responsif)", "category": "STYLING", "level": 86, "description": "Bento Grid, Tailwind CSS, Flexbox, CSS Grid, desain responsif multi-perangkat, dan animasi transisi." },
+      { "id": "hs-3", "name": "JavaScript ES6+ (Manipulasi DOM, State Manajemen Kasir, Form Logic)", "category": "PROGRAMMING", "level": 82, "description": "Manipulasi DOM dinamis, pengelolaan state, validasi form, dan logika aplikasi kasir/POS." },
+      { "id": "hs-4", "name": "Local Storage & Web API (Penyimpanan Data Offline & JSON Dataset)", "category": "STORAGE", "level": 88, "description": "Persistensi data sisi klien untuk aplikasi web mandiri tanpa risiko kehilangan data saat refresh." },
+      { "id": "hs-5", "name": "Python (Algoritma Pemrograman, Struktur Data Dasar, OOP)", "category": "LANGUAGE", "level": 76, "description": "Control flow, array & matriks, Object-Oriented Programming (OOP), Unit Testing, dan standar PEP8." },
+      { "id": "hs-6", "name": "Git & GitHub (Version Control, Repositori, Deployment Netlify)", "category": "VERSION CONTROL", "level": 82, "description": "Manajemen versi kode sumber, repositori proyek GitHub, dan publikasi ke Netlify Cloud." }
+    ],
+    "softSkills": [
+      { "id": "ss-1", "name": "Problem Solving", "icon": "01", "description": "Memecah alur transaksi bengkel rumit jadi antarmuka kasir yang praktis." },
+      { "id": "ss-2", "name": "Communication", "icon": "02", "description": "Mampu menjelaskan ide teknis dan solusi perangkat lunak secara terstruktur." },
+      { "id": "ss-3", "name": "Teamwork", "icon": "03", "description": "Aktif berkolaborasi dalam praktikum kampus dan penyelesaian studi kasus." },
+      { "id": "ss-4", "name": "Continuous Learning", "icon": "04", "description": "Secara konsisten mengikuti kursus berstandar industri dan sertifikasi resmi." }
+    ]
+  },
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "BengkelPro POS",
+      "subtitle": "Sistem Kasir & Manajemen Operasional Bengkel Kendaraan Bermotor",
+      "category": "Sistem Informasi",
+      "secondaryCategory": "Web Development",
+      "featured": true,
+      "date": "2026",
+      "image": "assets/img/bengkelpro-pos.svg",
+      "altImage": "assets/img/kasir-modern.svg",
+      "description": "Aplikasi Point of Sale (POS) berbasis web yang dirancang khusus untuk memodernisasi alur transaksi bengkel motor skala UMKM. Menggabungkan kalkulasi ongkos jasa servis dengan penjualan onderdil, kalkulasi laba harian otomatis, dan pengelolaan data pelanggan secara lokal (Local Storage).",
+      "purpose": "Menggantikan pencatatan manual di bengkel dengan antarmuka kasir berbasis web agar perhitungan biaya servis dan suku cadang lebih akurat.",
+      "technologies": ["HTML5", "CSS3 Grid", "JavaScript ES6+", "Local Storage"],
+      "features": [
+        "Cetak struk transaksi & QRIS ready",
+        "Indikator stok sparepart menipis",
+        "Developer Mode untuk Backup/Restore JSON"
+      ],
+      "demoUrl": "https://kasirbengkel-pro.netlify.app",
+      "altDemoUrl": "https://kasirmodern.netlify.app",
+      "repoUrl": "https://github.com/arrr01/kasir_sederhana",
+      "role": "Perancang Sistem & Web Developer"
+    },
+    {
+      "id": "proj-2",
+      "title": "Website Pondok Pesantren Darussalam Adikarso",
+      "subtitle": "Situs Web Resmi Profil Lembaga Pendidikan Islam",
+      "category": "Web Development",
+      "secondaryCategory": "Web Profil Lembaga",
+      "featured": false,
+      "date": "2026",
+      "image": "assets/img/ponpes-darussalam.svg",
+      "description": "Situs web resmi profil pesantren berbasis HTML5 semantik, CSS3 modern, dan tata letak responsif untuk menampilkan program pendidikan, informasi santri, dan galeri kegiatan.",
+      "purpose": "Menyajikan informasi profil lembaga pesantren, program pendidikan, dan pendaftaran santri secara daring dan responsif.",
+      "technologies": ["HTML5 Semantic", "CSS3 Flexbox", "Netlify Deployment"],
+      "features": [
+        "Struktur dokumen HTML5 semantik dan navigasi responsif",
+        "Informasi program pendidikan madrasah & tahfidz",
+        "Dipublikasikan secara langsung di Netlify Cloud"
+      ],
+      "demoUrl": "https://ponpes-darussalamadikarso.netlify.app",
+      "repoUrl": "https://github.com/saeffart/pondok_darussalam",
+      "role": "Frontend Web Developer"
+    },
+    {
+      "id": "proj-3",
+      "title": "Aplikasi Mobile Reservasi Tiket Pertandingan Bola",
+      "subtitle": "Prototipe Pemesanan Tiket Stadion Berbasis Android / XML",
+      "category": "Mobile Application",
+      "secondaryCategory": "UI/UX Design",
+      "featured": false,
+      "date": "2026",
+      "image": "assets/img/mobile-tiket-bola.svg",
+      "description": "Pengembangan prototipe aplikasi seluler untuk pemesanan tiket pertandingan stadion, pemilihan kategori tempat duduk (VIP, Barat, Timur), serta simulasi kalkulasi pembayaran.",
+      "purpose": "Memudahkan penonton pertandingan sepak bola memilih kategori tribun stadion dan melihat kalkulasi harga tiket secara instan.",
+      "technologies": ["Android Studio", "XML Layout", "Mobile UI/UX"],
+      "features": [
+        "Pemilihan kategori tribun (VIP Utama, Tribun Barat, Tribun Timur)",
+        "Simulasi kalkulasi pembayaran tiket otomatis",
+        "Tata letak antarmuka mobile yang intuitif"
+      ],
+      "demoUrl": "https://github.com/saeffart/uts_mobile_tiket_bola",
+      "repoUrl": "https://github.com/saeffart/uts_mobile_tiket_bola",
+      "role": "Mobile UI Developer"
+    }
+  ],
+  "certificates": [
+    {
+      "id": "cert-1",
+      "key": "web",
+      "title": "Belajar Dasar Pemrograman Web",
+      "issuer": "Dicoding Academy Indonesia",
+      "date": "28 April 2026",
+      "validUntil": "28 April 2029",
+      "hours": "41 Jam",
+      "credentialId": "07Z673JE2PQR",
+      "image": "assets/img/cert-web.svg",
+      "fileUrl": "https://dicoding.com/certificates/07Z673JE2PQR",
+      "note": "HTML5 Semantik, Box Model CSS, Tata Letak Responsif Flexbox, Media Query, & Proyek Akhir Website."
+    },
+    {
+      "id": "cert-2",
+      "key": "python",
+      "title": "Memulai Pemrograman dengan Python",
+      "issuer": "Dicoding Academy Indonesia",
+      "date": "14 Agustus 2026",
+      "validUntil": "14 Agustus 2029",
+      "hours": "60 Jam",
+      "credentialId": "KEXLMG40WZG2",
+      "image": "assets/img/cert-python.svg",
+      "fileUrl": "https://dicoding.com/certificates/KEXLMG4OWZG2",
+      "note": "Control Flow, Array & Matriks, Pemrograman Berorientasi Objek (OOP), Unit Testing, dan Standar PEP8."
+    },
+    {
+      "id": "cert-3",
+      "key": "genai",
+      "title": "Belajar Penggunaan Generative AI",
+      "issuer": "Dicoding Academy Indonesia",
+      "date": "05 Juni 2026",
+      "validUntil": "05 Juni 2029",
+      "hours": "30 Jam",
+      "credentialId": "1OP8REJYLZQK",
+      "image": "assets/img/cert-genai.svg",
+      "fileUrl": "https://dicoding.com/certificates/1OP8REJYLZQK",
+      "note": "Pola Prompt Engineering, Large Language Models (LLM), Etika AI, dan Gemini di Google Workspace."
+    },
+    {
+      "id": "cert-4",
+      "key": "aiprod",
+      "title": "AI Praktis untuk Produktivitas",
+      "issuer": "Dicoding Academy Indonesia",
+      "date": "09 Mei 2026",
+      "validUntil": "09 Mei 2029",
+      "hours": "20 Jam",
+      "credentialId": "QLZ996W7EZ5D",
+      "image": "assets/img/cert-aiprod.svg",
+      "fileUrl": "https://dicoding.com/certificates/QLZ996W7EZ5D",
+      "note": "Optimasi alur kerja digital, seni prompt engineering praktis, dan mitigasi risiko ketidaksempurnaan model AI."
+    }
+  ],
+  "interests": [
+    {
+      "id": "int-1",
+      "name": "Web Development",
+      "icon": "WEB",
+      "category": "Fokus Utama",
+      "active": true,
+      "description": "Pengembangan aplikasi web modern yang cepat, responsif, dan memiliki kode yang terstruktur rapi."
+    },
+    {
+      "id": "int-2",
+      "name": "Sistem Informasi & POS",
+      "icon": "POS",
+      "category": "Fokus Utama",
+      "active": true,
+      "description": "Perancangan aplikasi kasir, manajemen inventori, dan rekapitulasi laporan operasional UMKM."
+    },
+    {
+      "id": "int-3",
+      "name": "UI/UX Design",
+      "icon": "UIX",
+      "category": "Fokus Utama",
+      "active": true,
+      "description": "Perancangan antarmuka Bento Grid yang mengutamakan keterbacaan tipografi dan kemudahan navigasi."
+    },
+    {
+      "id": "int-4",
+      "name": "Python & Generative AI",
+      "icon": "AI",
+      "category": "Eksplorasi Aktif",
+      "active": true,
+      "description": "Pengolahan data menggunakan Python dan pemanfaatan prompt engineering untuk produktivitas."
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-1",
+      "type": "Pendidikan",
+      "title": "Mahasiswa S1 Teknik Informatika (NIM: 1024017)",
+      "organization": "Universitas Ma'arif Nahdlatul Ulama Kebumen",
+      "period": "2024 — Sekarang",
+      "description": "Kelas TI11A Angkatan 2024. Mendalami Algoritma & Struktur Data, Rekayasa Perangkat Lunak, Technopreneurship, dan Pemrograman Web."
+    },
+    {
+      "id": "exp-2",
+      "type": "Proyek",
+      "title": "Pengembangan Aplikasi BengkelPro POS",
+      "organization": "UTS Technopreneurship & Aplikasi Web",
+      "period": "2026",
+      "description": "Membangun aplikasi Point of Sale (kasir) dan manajemen stok suku cadang bengkel motor menggunakan HTML5, CSS3, JavaScript, dan Local Storage."
+    },
+    {
+      "id": "exp-3",
+      "type": "Sertifikasi",
+      "title": "Kelulusan 4 Kelas Resmi Dicoding Academy (151 Jam)",
+      "organization": "Dicoding Indonesia",
+      "period": "2026",
+      "description": "Lulus terverifikasi pada kelas Belajar Dasar Pemrograman Web, Memulai Pemrograman dengan Python, Belajar Penggunaan Generative AI, dan AI Praktis untuk Produktivitas."
+    }
+  ],
+  "contact": {
+    "email": "saifulanwar@umnu.ac.id",
+    "whatsapp": "+62 812-0000-0000",
+    "linkedin": "https://linkedin.com",
+    "github": "https://github.com/arrr01/kasir_sederhana",
+    "githubSecondary": "https://github.com/saeffart",
+    "githubUsername": "arrr01",
+    "instagram": "https://instagram.com",
+    "location": "Kebumen, Jawa Tengah"
+  }
+}

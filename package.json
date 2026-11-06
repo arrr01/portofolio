@@ -1,0 +1,17 @@
+{
+  "name": "personal-portfolio-digital-cv-2026",
+  "version": "2.0.0",
+  "description": "Personal Portfolio & Digital CV Profesional untuk Mahasiswa Teknik Informatika dengan konsep Minimalist Developer Portfolio & Bento Grid 2026.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "digital-cv",
+    "teknik-informatika",
+    "bento-grid",
+    "bengkelpro-pos"
+  ],
+  "license": "MIT"
+}
